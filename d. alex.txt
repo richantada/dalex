@@ -1,0 +1,163 @@
+﻿#EXTINF:-1,Avatar The Legend of Korra E.8
+https://www.googleapis.com/drive/v3/files/1Gy0eX6xqV1M8eWcdTIsNRbNIWuzeov6j?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
+#EXTINF:-1,Avatar The Legend of Korra E.9
+https://www.googleapis.com/drive/v3/files/1V8dA-zYIydS6sX1nwgwCCpAb7fiK6uAf?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
+#EXTINF:-1,Avatar The Legend of Korra E.10
+https://www.googleapis.com/drive/v3/files/1i4guJgz5teuQtm8mduiNQJgQYuT5DHix?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
+#EXTINF:-1,Avatar The Legend of Korra E.11-12
+https://www.googleapis.com/drive/v3/files/1Tq-a4T2Gj8rGnmak4OXjLkKeuWEDozut?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
+#EXTINF:-1,Avatar The Legend of Korra E.13-14
+https://www.googleapis.com/drive/v3/files/1d5_w1c0nAsfS1mAqgqM6IILYItdvdHWP?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
+#EXTINF:-1,Avatar The Legend of Korra E.22
+https://www.googleapis.com/drive/v3/files/1m6UzmkP6_iVCJxOvuNmXFiKrDmbAYjcU?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
+#EXTINF:-1,Avatar The Legend of Korra E.23-24
+https://www.googleapis.com/drive/v3/files/18-6EZZaMycBZzR7PZn8VBEKtT8lVpiOw?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
+#EXTINF:-1,Avatar The Legend of Korra E.25
+https://www.googleapis.com/drive/v3/files/1qsFGr8IWr6w0sOUTG57MN5Oct2ZAL9nI?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
+#EXTINF:-1,THE WORK
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1,STAR MOVIES
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1,STAR WORLD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+#EXTINF:-1,RAI MOVIES
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,SONY MAX 1
+http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
+#EXTINF:-1,B4U TV
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(02)/index.m3u8
+#EXTINF:-1,STAR MOVIES
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1,Canal 2 (袦芯谢写芯胁邪)
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8
+#EXTINF:-1,Evgen Serial
+http://autopilot.myowntv.org/content2/36168/index.m3u8
+#EXTINF:-1,Evgen VHS
+http://autopilot.myowntv.org/content2/36251/index.m3u8
+#EXTINF:-1,Evgen 小小小袪
+https://v2.catcast.me/content/36506/index.m3u8
+#EXTINF:-1,Evgen 校卸邪褋褘
+http://autopilot.myowntv.org/content2/36277/index.m3u8
+#EXTINF:-1,Film Box
+http://188.113.190.12/207/video.m3u8
+#EXTINF:-1,FOX
+http://178.217.72.66/225.201.2.199/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FOX HD
+http://178.217.72.66/225.201.2.13/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FOX Life HD
+http://188.113.190.12/182/video.m3u8
+#EXTINF:-1,HD life
+http://178.217.72.66:80/225.201.2.48/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Hollywood HD
+http://178.217.72.66/225.201.2.85/tracks-v1a1/mono.m3u8
+#EXTINF:-1,KINO 24
+http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1,Paramount Channel
+http://178.217.72.66/225.201.2.28/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Paramount Comedy
+http://182.73.122.74:10004/bysid/1108
+#EXTINF:-1,Paramount Comedy HD
+http://176.125.104.234:4022/udp/233.12.144.83:5050
+#EXTINF:-1,SC-TV
+https://ch.iptvmate.net/506c4e361e871b2d88daea0ef1ed8237.m3u8
+#EXTINF:-1,Sony TV HD
+http://185.29.255.170:8012/play/201
+#EXTINF:-1,Sony Sci-Fi
+http://185.29.255.170:8008/play/61
+#EXTINF:-1,Sony Turbo
+http://185.29.255.170:8008/play/62
+#EXTINF:-1,Spike
+http://178.217.72.66/225.201.2.6/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TLC HD
+http://185.29.255.170:8012/play/165
+#EXTINF:-1,TLC Russia
+http://178.217.72.66:80/225.201.2.92/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TVM Channel
+http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
+#EXTINF:-1,VIP Comedy
+http://178.217.72.66:80/225.201.2.170/tracks-v1a1/mono.m3u8
+#EXTINF:-1,VIP Comedy HD
+http://178.217.72.66/225.201.2.170/tracks-v1a1/mono.m3u8
+#EXTINF:-1,VIP Megahit
+http://178.217.72.66:80/225.201.2.171/tracks-v1a1/mono.m3u8
+#EXTINF:-1,VIP Megahit HD
+http://178.217.72.66/225.201.2.171/tracks-v1a1/mono.m3u8
+#EXTINF:-1,VIP Premiere
+http://178.217.72.66:80/225.201.2.172/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ViP Premiere HD
+http://178.217.72.66
+
+#EXTINF:-1,Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+#EXTINF:-1,Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1,Nickelodeon
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
+#EXTINF:-1,Cartoon Network
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28798.ts?token=HhVYAkpZQF8XVVJYUlFaA1ZRVA8BXlQDBgIJUgFVAQIBAFVaD1QDVQUTThtFQ0pVUlk6X1QaWVNdBQFbG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1ACVwFVUhsSE1BVQF8XCFYJAxUUElZMEVNCVgINOlZdFV4GU0NfWUUPVR1ACltuBlxbVlZUEQ5HBxIUQQgWQhpZWRBaDUkVUgpNQwMRUBNYGwAEDRIfFgZZRVYXExwQAkF6PBRNR1JIF1xfEQxaX0ADFENLEh8WDEVvSgYSEUBdAloARENfFQBBFRMPBE1uAVZYWV1TR10KWEMaWUNUEBRBWgpYCBFYQjxJWAZHDxNbCgAPGk0=
+#EXTINF:-1,Cartoon Network HD
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+#EXTINF:-1,BabyFirst
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1,Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1,Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
+#EXTINF:-1,Larva TV
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+#EXTINF:-1,Doraemon TV
+http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
+#EXTINF:-1,Tom & Jerry TV
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+#EXTINF:-1,DUCK TV
+https://cdnjt22.useetv.com/joss/14/ducktv/chunklist_w833664660_b684100_sleng_7149.m3u8
+#EXTINF:-1,DUNIA ANAK
+https://vcdnjt.useetv.com/joss/14/duniaanak/chunklist_w873899480_b684100_sleng_54966.m3u8
+#EXTINF:-1,BOOMERANG
+https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w1392885613_b684100_sleng_54965.m3u8
+#EXTINF:-1,NICKELODEON
+https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w2020530064_b684100_sleng_80926.m3u8
+#EXTINF:-1,CARTOON NETWORK
+https://vcdnjt.useetv.com/joss/14/cartoonnetwork/chunklist_w1073351013_b684100_sleng_54935.m3u8
+#EXTINF:-1,SPACETOON PLUS
+https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w1597850384_b684100_sleng_80925.m3u8
+#EXTINF:-1,HOREE
+https://vcdnjt.useetv.com/joss/14/horee/chunklist_w1146919815_b684100_sleng_97615.m3u8
+#EXTINF:-1,SPACETOON PLUS
+https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w1597850384_b684100_sleng_80925.m3u8
+#EXTINF:-1,Spacetoon Plus
+https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w1597850384_b684100_sleng_80925.m3u8
+#EXTINF:-1,Nickelodeon
+https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w2020530064_b684100_sleng_80926.m3u8
+#EXTINF:-1,Cartoon Network
+https://dl.dropbox.com/s/eyfch39sot2it92/carton.m3u8?dl=0
+#EXTINF:-1,GEM KIDS
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w2136739086.m3u8
+#EXTINF:-1,GEM JUNIOR
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
+#EXTINF:-1,GEM JUNIOR
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist_w1049727759.m3u8
+#EXTINF:-1,SPACETOON
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/03.m3u8
+#EXTINF:-1,DUCK
+http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
+#EXTINF:-1,3ABNKIDS.TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
+#EXTINF:-1,Kids Central
+http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
+#EXTINF:-1,GEM KID
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w1290919452.m3u8
+#EXTINF:-1,MIAOMI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
+#EXTINF:-1,BOING
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
+#EXTINF:-1,boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
+#EXTINF:-1,GEM KIDS
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w2136739086.m3u8
+#EXTINF:-1,GEM JUNIOR
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist_w1049727759.m3u8
+#EXTINF:-1,GEM Kids
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1,GEM Junior
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/p
